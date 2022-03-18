@@ -33,3 +33,5 @@ start = function(){
 }
 
 ```
+
+Then simply start the game, and the answers will autofill into the answer box.
