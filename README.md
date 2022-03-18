@@ -1,5 +1,5 @@
 # DrFrostMaths API
-DrFrostMaths timestables API proxy that auto completes answers.
+DrFrostMaths timestables API proxy that auto completes answers. It exploits the fact that it uses innerHTML to display the question, which allows for code execution via XSS.
 
 ## Usage
 
