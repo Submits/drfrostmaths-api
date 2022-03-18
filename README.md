@@ -3,7 +3,7 @@ DrFrostMaths timestables API proxy that auto completes answers.
 
 ## Usage
 
-On the Timestables game screen, press CTRL + SHIFT + I or F12 to bring up the console, and enter the following:
+On the Timestables game screen, press  <kbd>CTRL</kbd> + <kbd>SHIFT</kbd> + <kbd>I</kbd> or <kbd>F12</kbd> to bring up the console, and enter the following:
 
 ```js
 
